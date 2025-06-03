@@ -1,7 +1,6 @@
 ﻿# Printing-Triangles-Challenge
 
 
-Absolutely! Let’s go through the loop-based C program step-by-step.
 
 ---
 
