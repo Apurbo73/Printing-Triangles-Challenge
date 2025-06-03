@@ -92,4 +92,3 @@ Combining all the loops, we get:
  *******     ← 0 spaces + 7 stars
 ```
 
-Let me know if you want to [adjust the number of rows](f) or [make it inverted](f).
