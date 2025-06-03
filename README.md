@@ -1,4 +1,4 @@
-﻿# Printing-Triangles-Challenge
+### Printing-Triangles-Challenge
 
 
 
